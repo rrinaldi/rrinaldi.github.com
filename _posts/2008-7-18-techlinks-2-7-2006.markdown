@@ -1,0 +1,34 @@
+---
+layout: post
+title: techlinks-2-7-2006
+---
+[Upgrading to Team Foundation Server
+RC](http://blogs.msdn.com/robcaron/archive/2006/02/06/526353.aspx) via
+[Rob Caron](http://blogs.msdn.com/robcaron/default.aspx "Rob Caron") –
+Time to figure out how to upgrade our Beta 3 Refresh (? I think it’s
+refresh…) to RC or RTM.  Our Internal Services guys are setting up our
+blade as we speak.
+
+[More on Alternate Linksys
+Firmware](http://www.hanselman.com/blog/PermaLink.aspx?guid=d4a94cc0-8f19-4e43-8e76-4d74f9c4ad68) via
+[Scott Hanselman](http://www.hanselman.com/blog/ "Scott Hanselman") – I
+have one of these routers.  I wouldn’t mind having some no-install VPN
+to the home goodness!
+
+[User Zoom in
+IE7](http://blogs.msdn.com/ie/archive/2006/02/07/526805.aspx) via
+[IEBlog](http://blogs.msdn.com/ie/default.aspx "IEBlog") – zoom Zoom
+zoom.  I couldn’t care less about zooming, but I know my mother will.
+
+[Coining of the term
+“Podfading”](http://feeds.feedburner.com/43Folders?m=488) via [43
+Folders](http://www.43folders.com/) – So you start Podcasting, then you
+start to get Podboring, so you decide to start Podfading and before you
+know it you are Poddead?
+
+[A Windows RSS Store
+viewer](http://www.codeproject.com/useritems/rssstoreviewer.asp) via
+[Code Project](http://www.codeproject.com/) – From the “that was hella
+fast” dept.  Windows RSS Store was just released a couple days ago with
+the IE7 beta.  The article goes into some depth on the file format
+(standard OLE documents) and the COM api used to access them.

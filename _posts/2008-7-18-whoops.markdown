@@ -1,0 +1,10 @@
+---
+layout: post
+title: whoops
+---
+Looks like the registration slipped for the Dojo!  Sorry about that! 
+All seems to be back to normal again. (At least DNS seems to have
+propagated correctly to the South Loop in Chicago)
+
+As an FYI to all y'all, if I have a few spare cycles this weekend, I'll
+be upgrading the dojo yet again but this time it will be to CS 2.1.
