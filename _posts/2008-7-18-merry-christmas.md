@@ -1,3 +1,7 @@
+---
+layout: post
+title: merry-christmas
+---
 Merry Christmas to one and all!  I hope Santa brought you everything you
 wanted.  As for me?  This year my two favorite gifts are my new [Home
 Cafe brewing system from Black and Decker](http://shrinkster.com/2vn)

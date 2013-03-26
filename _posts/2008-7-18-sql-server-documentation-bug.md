@@ -1,3 +1,7 @@
+---
+layout: post
+title: sql-server-documentation-bug
+---
 At work I needed to find a way to store an obscene amount of text in our
 database.  Either I could use a varchar(7000+) datatype or I could shoot
 performance in the head and use the text datatype.  The problem was that

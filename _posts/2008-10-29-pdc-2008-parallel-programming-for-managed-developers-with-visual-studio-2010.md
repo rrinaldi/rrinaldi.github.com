@@ -1,3 +1,7 @@
+---
+layout: post
+title: pdc-2008-parallel-programming-for-managed-developers-with-visual-studio-2010
+---
 (Holy long session name Batman!)
 
 Tools shipping in 2010

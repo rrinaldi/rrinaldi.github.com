@@ -1,3 +1,7 @@
+---
+layout: post
+title: updates-and-upgrades
+---
 This is just a note to inform you that the dojo will be under going some
 minor maintenance in approx. 24 hours.  If things go wonky, don't act
 like you weren't warned. :)

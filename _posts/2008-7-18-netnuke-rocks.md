@@ -1,3 +1,7 @@
+---
+layout: post
+title: netnuke-rocks
+---
 I believe the title says it all.  The last couple of days I've been
 toying around with [.NetNuke](http://www.dotnetnuke.com) and I am quite
 impressed (to say the least).  I first heard of .NetNuke shortly after I

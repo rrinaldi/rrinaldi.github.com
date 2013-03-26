@@ -1,3 +1,7 @@
+---
+layout: post
+title: pdc-2008-architecture-without-big-design-up-front
+---
 (I lied. I didn't make it to the Oslo session.  I went to the "Big Room"
 and spent tons of time getting swag and talking to vendors.  I also
 spent lots of time with [Peli](http://blog.dotnetwiki.org/) talking and

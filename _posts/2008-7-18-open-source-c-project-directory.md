@@ -1,3 +1,7 @@
+---
+layout: post
+title: open-source-c-project-directory
+---
 [http://csharp-source.net/](http://csharp-source.net/)
 
 This link went around a couple weeks back.  Since I couldn't remember

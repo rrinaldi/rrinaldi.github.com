@@ -1,3 +1,7 @@
+---
+layout: post
+title: sweet-multi-monitor-goodness-with-a-splash-of-kvm-flavor
+---
 At work I have 2 monitors and my trusty laptop
 [MojoDojo](http://blogs.geekdojo.net/ryan/archive/2005/03/24/7538.aspx) playing
 the part of the 3rd monitor.  I’ve been using

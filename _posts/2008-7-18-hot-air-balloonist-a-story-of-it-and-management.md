@@ -1,3 +1,7 @@
+---
+layout: post
+title: hot-air-balloonist-a-story-of-it-and-management
+---
 I’ve heard this one countless times, but I still find it funny:
 
 [Via [Sean

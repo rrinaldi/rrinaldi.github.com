@@ -1,3 +1,7 @@
+---
+layout: post
+title: mysql-real-database
+---
 In a press release today, [MySQL AB](http://www.mysql.com/) [announced
 that MySQL now supports Stored
 Procedures](http://www.mysql.com/press/release_2004_02.html).

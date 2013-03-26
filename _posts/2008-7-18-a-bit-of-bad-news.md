@@ -1,3 +1,7 @@
+---
+layout: post
+title: a-bit-of-bad-news
+---
 My friend Andy who blogs here, maintains the server and helped start the
 GeekDojo is moving to Utah to take a very non IT job. :(  He'll be doing
 some camping and building the self esteem of teenagers through bonding

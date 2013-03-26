@@ -1,3 +1,7 @@
+---
+layout: post
+title: gettin-jiggy-w-chicago-developers
+---
 (Is jiggy still a cool word? (was it ever?))
 
 [Chicago Nerd Dinner/Geek Meet-up/Drink n’

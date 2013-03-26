@@ -1,3 +1,7 @@
+---
+layout: post
+title: vcard-code
+---
 I mentioned in my last post that I was working on some vCard code.  I
 figured I would post it here in case anybody is ever looking for a vCard
 implementation in C\#.  This code generates a valid vCard, supports

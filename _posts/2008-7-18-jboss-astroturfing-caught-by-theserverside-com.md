@@ -1,3 +1,7 @@
+---
+layout: post
+title: jboss-astroturfing-caught-by-theserverside-com
+---
 Seems JBoss Inc. employee's have been posting anonymously to forums,
 slamming the competition and drumming up business.
 

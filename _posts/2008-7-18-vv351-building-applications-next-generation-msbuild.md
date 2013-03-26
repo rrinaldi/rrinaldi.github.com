@@ -1,3 +1,7 @@
+---
+layout: post
+title: vv351-building-applications-next-generation-msbuild
+---
 Just had lunch with [Julie Lerman](http://thedatafarm.com/blog/).  Quite
 enjoyable
 

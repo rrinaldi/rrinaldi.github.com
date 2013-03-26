@@ -1,3 +1,7 @@
+---
+layout: post
+title: disable-the-back-button
+---
 You ever need to perform some function in Javascript (like submitting a
 form?) that afterword, if the user were to hit the back button, it would
 cause big problems?  A lot of times this can be solved by just throwing

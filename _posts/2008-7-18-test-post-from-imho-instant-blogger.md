@@ -1,3 +1,7 @@
+---
+layout: post
+title: test-post-from-imho-instant-blogger
+---
 If this works, IMHO Instant Blogger works with CS (and the 'dojo).
 
 I set my account up as a "MoveableType (dasblog, wordpress)" account and

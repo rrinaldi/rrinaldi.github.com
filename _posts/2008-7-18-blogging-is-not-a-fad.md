@@ -1,3 +1,7 @@
+---
+layout: post
+title: blogging-is-not-a-fad
+---
 Maybe it hit me later than most, but I finally believe that blogging is
 more than just a fad.  Maybe it is the rumor that BillG will be blogging
 or the fact that the [COO of Sun is

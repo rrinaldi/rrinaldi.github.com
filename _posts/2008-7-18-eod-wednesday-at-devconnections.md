@@ -1,3 +1,7 @@
+---
+layout: post
+title: eod-wednesday-at-devconnections
+---
 Today the session quality was "iffy".  I wound up leaving a few early,
 normally because the presenter named his or her session poorly.  Please
 people if you are going to be presenting on a topic name your

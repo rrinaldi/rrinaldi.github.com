@@ -1,3 +1,7 @@
+---
+layout: post
+title: running-the-new-hotness
+---
 I've upgraded the Dojo to the Community Server!
 
 3 hours of conversion, 1 hour of setup, and a randomly failing router

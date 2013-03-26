@@ -1,3 +1,7 @@
+---
+layout: post
+title: office-12-preview
+---
 From WinSuperSite: [Office 12
 preview](http://winsupersite.com/showcase/office12_preview1.asp)
 

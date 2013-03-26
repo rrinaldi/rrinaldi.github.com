@@ -1,3 +1,7 @@
+---
+layout: post
+title: reviews-and-status-reports
+---
 How do you do status reviews?
 
 At the office we currently have:

@@ -1,3 +1,7 @@
+---
+layout: post
+title: fix-data-loss-when-you-switch-view-in-webform-designer
+---
 This bug hits me quite often, and first thing Monday I'm going to apply
 the patch.  This is pretty fresh off of kbAlertz, so I thought I would
 pass it on.

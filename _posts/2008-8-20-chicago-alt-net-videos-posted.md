@@ -1,3 +1,7 @@
+---
+layout: post
+title: chicago-alt-net-videos-posted
+---
 Part 1: Demonstration of ThoughtWorks Cruise:
 
 [http://devlicio.us/blogs/sergio\_pereira/archive/2008/08/20/video-thoughtworks-cruise-at-chicago-alt-net.aspx](http://devlicio.us/blogs/sergio_pereira/archive/2008/08/20/video-thoughtworks-cruise-at-chicago-alt-net.aspx)

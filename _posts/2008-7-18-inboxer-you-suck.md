@@ -1,3 +1,7 @@
+---
+layout: post
+title: inboxer-you-suck
+---
 Hey Inboxer-
 
 This is a direct letter to you.  I don't mind if you want to advertise

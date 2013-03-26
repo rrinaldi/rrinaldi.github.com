@@ -1,3 +1,7 @@
+---
+layout: post
+title: aw352-migrating-from-web-services-to-soas
+---
 Good morning! Walked the strip last night so I could see the Bellegaio. 
 Very sweet hotel and casino.  I've never been to Vegas before so I'm
 trying to get in all of the "tourist-y" things.

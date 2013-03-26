@@ -1,3 +1,7 @@
+---
+layout: post
+title: like-httphandlers
+---
 Maybe you like HttpHandlers.  Maybe you want to use them to intercept
 calls to files end users will be downloading from your server.  You want
 to log the file requests. 

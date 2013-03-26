@@ -1,3 +1,7 @@
+---
+layout: post
+title: modal-dialogs-and-you
+---
 You might have noticed that if you ever use window.showModalDialog()
 that the resulting window will always post back to another new window. 
 Some people have worked around that by using an IFRAME inside of the

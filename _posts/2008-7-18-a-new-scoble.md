@@ -1,3 +1,7 @@
+---
+layout: post
+title: a-new-scoble
+---
 With 14 posts in under 24 hours I hearby proclaim [Adam
 Field](http://blogs.geekdojo.net/adam) the new
 [Scoble](http://radio.weblogs.com/0001011/).

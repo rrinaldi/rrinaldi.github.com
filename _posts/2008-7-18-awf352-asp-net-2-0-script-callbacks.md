@@ -1,3 +1,7 @@
+---
+layout: post
+title: awf352-asp-net-2-0-script-callbacks
+---
 So I can get an IP on the wireless network, but getting IP apparently
 doesn't mean being able to route to web sites. ugh
 

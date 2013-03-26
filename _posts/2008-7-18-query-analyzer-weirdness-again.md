@@ -1,3 +1,7 @@
+---
+layout: post
+title: query-analyzer-weirdness-again
+---
 A coworker of mine brought this to my attention and he demanded that I
 blog about it. :)
 

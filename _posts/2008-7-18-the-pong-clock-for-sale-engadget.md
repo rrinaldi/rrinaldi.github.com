@@ -1,3 +1,7 @@
+---
+layout: post
+title: the-pong-clock-for-sale-engadget
+---
 [The Pong clock, for sale! -
 Engadget](http://www.engadget.com/2006/01/18/the-pong-clock-for-sale/).
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: one-year-and-then-some
+---
 Well, approximately one year ago thee ol' Geekdojo went live.  Sadly, I
 have no idea when the first post was made to the site.  I
 accidentally toasted the database on an upgrade gone bad. Whoops.

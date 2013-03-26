@@ -1,3 +1,7 @@
+---
+layout: post
+title: tfs-and-name-changes
+---
 One of my fellow developers on my team just had her name change.  We
 figured there would be a few issues when her login name changed and TFS
 pretty much puked on it.  It seems that TFS stores some workspace

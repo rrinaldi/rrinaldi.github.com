@@ -1,3 +1,7 @@
+---
+layout: post
+title: number-3-in-chicago
+---
 This news is a little old, and I can't believe I forgot to post it, but
 my employer, [Trading Technologies](http://www.tradingtechnologies.com),
 was voted the number 3 workplace in Chicago!

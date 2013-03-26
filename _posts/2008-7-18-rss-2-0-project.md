@@ -1,3 +1,7 @@
+---
+layout: post
+title: rss-2-0-project
+---
 Andrew Connell pointed out that CodeProject.com has a [RSS 2.0 framework
 project](http://www.codeproject.com/csharp/rssframework.asp):
 

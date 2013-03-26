@@ -1,3 +1,7 @@
+---
+layout: post
+title: how-they-do-that
+---
 If you ever wondered how some of the standard .NET classes do the voodoo
 that they do, now you can find out.  Check out
 [Reflector](http://www.aisto.com/roeder/dotnet/) for .NET.  From the

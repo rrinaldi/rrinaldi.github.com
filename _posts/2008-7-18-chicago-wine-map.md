@@ -1,3 +1,7 @@
+---
+layout: post
+title: chicago-wine-map
+---
 Chicago area [wine shops and
 stores](http://www.drvino.com/chicagowineshops.php "Chicago area wine shops and stores") complete
 with Google map goodness.

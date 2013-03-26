@@ -1,3 +1,7 @@
+---
+layout: post
+title: the-function-i-promised
+---
 Well, I really didn't promise it but I had some free time at work
 waiting for Visual Studio .NET to repair itself. (Why does uninstalling
 Visual Studio .NET 2002 kill the file associations for Visual Studio

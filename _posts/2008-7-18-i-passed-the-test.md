@@ -1,3 +1,7 @@
+---
+layout: post
+title: i-passed-the-test
+---
 So I have this new budget setup right?  Got Microsoft Money 2004 (which
 rocks BTW, I will write a review as soon as I spend some more time with
 it (Get it? Spend?  HAHA, I crack myself up)) running, budget budgeting,

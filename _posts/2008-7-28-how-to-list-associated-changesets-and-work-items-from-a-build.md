@@ -1,3 +1,7 @@
+---
+layout: post
+title: how-to-list-associated-changesets-and-work-items-from-a-build
+---
 When writing tools that [work with builds from
 TFS](http://ryanrinaldi.com/blog/how-to-get-the-last-successful-build-from-tfs/),
 sometimes it's nice to get a list of the changesets and/or work items

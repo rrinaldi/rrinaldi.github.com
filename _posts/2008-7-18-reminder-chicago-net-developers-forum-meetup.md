@@ -1,3 +1,7 @@
+---
+layout: post
+title: reminder-chicago-net-developers-forum-meetup
+---
 Chicago .NET Developers Forum Meetup
 
 Rock Bottom Brewery @ State and Grand

@@ -1,3 +1,7 @@
+---
+layout: post
+title: viewstate-in-asp
+---
 Having to do some work in Old Skewl ASP, I ran into a problem where I
 wanted to throw my request collection in ViewState.  Well, since ASP
 doesn't support ViewState I whipped up this little Sub that will take

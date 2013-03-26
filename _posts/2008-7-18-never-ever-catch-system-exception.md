@@ -1,3 +1,7 @@
+---
+layout: post
+title: never-ever-catch-system-exception
+---
 …except when you should. :)
 
 Patrick Cauldwell wrote a great post on [how to handle

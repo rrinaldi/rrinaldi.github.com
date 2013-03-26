@@ -1,3 +1,7 @@
+---
+layout: post
+title: yes-my-friends-you-can-charge-for-free-software
+---
 I was reading Slashdot today and on of the posts was "Making Money Using
 Open Source Software?" where GamblerZG asks how you can make money
 creating Free software.  Yes, it is possible.  Because the FOSS people

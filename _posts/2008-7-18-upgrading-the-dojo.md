@@ -1,3 +1,7 @@
+---
+layout: post
+title: upgrading-the-dojo
+---
 Just so the fellow bloggers here know, I am currently looking into what
 it would take to upgrade thee [dojo](http://blogs.geekdojo.net/) to
 [Community Server](http://www.communityserver.org/).  So far it seems

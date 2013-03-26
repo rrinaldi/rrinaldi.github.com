@@ -1,3 +1,7 @@
+---
+layout: post
+title: introducing-vsink
+---
 I saw [this
 post](http://journals.tuxreports.com/lch/archives/002765.html) by the
 Incremental Blogger explaining some ideas for integrating ink with

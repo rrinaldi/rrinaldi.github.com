@@ -1,3 +1,7 @@
+---
+layout: post
+title: new-gadgets
+---
 Over the past few months I’ve accumulated (and lost) a few new gadgets:
 
 **Gadget the first:** [A Motorola RAZR V3

@@ -1,3 +1,7 @@
+---
+layout: post
+title: pdc-2008-a-lap-around-oslo
+---
 (Just snagged a backpack and a hoodie.  Yay free swag!)
 
  

@@ -1,3 +1,7 @@
+---
+layout: post
+title: c-vcalendar-vevent-implementation
+---
 Here is a class that outputs a valid vCalendar string.  Again, not all
 of the spec is implemented here since I was targeting Outlook. 
 Everything that is here is all that Outlook supports (according to my

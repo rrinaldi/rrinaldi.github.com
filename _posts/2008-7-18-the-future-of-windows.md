@@ -1,3 +1,7 @@
+---
+layout: post
+title: the-future-of-windows
+---
 I don't normally quote something verbatim, but I thought this was
 interesting:
 

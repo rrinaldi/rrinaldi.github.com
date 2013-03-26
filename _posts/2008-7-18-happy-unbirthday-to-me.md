@@ -1,3 +1,7 @@
+---
+layout: post
+title: happy-unbirthday-to-me
+---
 And a [Happy Birthday to
 Rory](http://neopoleon.com/blog/posts/11682.aspx)!
 

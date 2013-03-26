@@ -1,3 +1,7 @@
+---
+layout: post
+title: what-is-your-team-system
+---
 I noticed a lot of posts the other day where people rattled off what
 they are currently using to mimic all of the functionality that you will
 be getting with Team System.  At my office, we don't have a very

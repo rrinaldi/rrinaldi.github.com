@@ -1,3 +1,7 @@
+---
+layout: post
+title: pdc-registration-information
+---
 Via the PDC Website RSS Feed:
 
 > The PDC Web site has been updated with the following information:

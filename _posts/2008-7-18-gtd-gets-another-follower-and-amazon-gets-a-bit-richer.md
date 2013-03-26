@@ -1,3 +1,7 @@
+---
+layout: post
+title: gtd-gets-another-follower-and-amazon-gets-a-bit-richer
+---
 Being easily swayed by peer pressure,
 [Jeff](http://weblogs.asp.net/jkey)convinced me to get on the GTD
 (Getting Things Done!, for those 3 people that have yet to hear about

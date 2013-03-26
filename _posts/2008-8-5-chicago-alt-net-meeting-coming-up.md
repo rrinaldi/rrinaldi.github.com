@@ -1,3 +1,7 @@
+---
+layout: post
+title: chicago-alt-net-meeting-coming-up
+---
 August 13th, 2008 6:30 PM at ThoughtWorks.
 
 200 E Randolph St\

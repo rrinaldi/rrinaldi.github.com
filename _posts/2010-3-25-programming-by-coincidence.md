@@ -1,3 +1,7 @@
+---
+layout: post
+title: programming-by-coincidence
+---
 *I’m using Twitter. Follow me [@rrinaldi](http://twitter.com/rrinaldi)*
 
 ![](http://wakkanew.files.wordpress.com/2009/09/i-know-internets.jpg)

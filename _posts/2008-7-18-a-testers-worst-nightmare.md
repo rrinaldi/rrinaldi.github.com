@@ -1,3 +1,7 @@
+---
+layout: post
+title: a-testers-worst-nightmare
+---
 I'm sitting at home this saturday evening doing some laundry and going
 through my laptop cleaning off unused programs.  I noticed that I had VS
 2003 installed, and now that our team is moving to Team Foundation

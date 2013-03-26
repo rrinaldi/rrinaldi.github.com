@@ -1,3 +1,7 @@
+---
+layout: post
+title: spambayes-wants-me-canned
+---
 There have been a
 [couple](http://weblogs.asp.net/ssmith/posts/32378.aspx)
 [people](http://weblogs.asp.net/psteele/posts/32381.aspx) that have

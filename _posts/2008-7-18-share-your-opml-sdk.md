@@ -1,3 +1,7 @@
+---
+layout: post
+title: share-your-opml-sdk
+---
 [Scripting.com](http://scripting.com/) has posted a
 [SDK](http://feeds.scripting.com/sdk) for it's new [Share Your
 OPML](http://feeds.scripting.com/) site.  I would really like to see

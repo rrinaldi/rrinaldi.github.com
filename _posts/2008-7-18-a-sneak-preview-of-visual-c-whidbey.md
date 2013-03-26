@@ -1,3 +1,7 @@
+---
+layout: post
+title: a-sneak-preview-of-visual-c-whidbey
+---
 Via [EricGu](http://blogs.msdn.com/ericgu/archive/2004/01/28/64110.aspx)
 I took a look at the "[Sneak Preview of Visual C\#
 Whidbey](http://http://msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dv_vstechart/html/whidbey_csharp_preview.asp)".

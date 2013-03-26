@@ -1,3 +1,7 @@
+---
+layout: post
+title: pssst-scoble-over-here
+---
 Hey Mr. Scoble sir, I don't mean to bother you or anything, but I was
 wondering if you could take some time and take a look over here:
 [http://lab.msdn.microsoft.com/vs2005/teamsystem/blogs/default.aspx](http://lab.msdn.microsoft.com/vs2005/teamsystem/blogs/default.aspx)

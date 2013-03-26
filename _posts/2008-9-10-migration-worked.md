@@ -1,3 +1,7 @@
+---
+layout: post
+title: migration-worked
+---
 If you found yourself here via my RSS feed, then the redirect module I
 put up on my old blog is working.
 

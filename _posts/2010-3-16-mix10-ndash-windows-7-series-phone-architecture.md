@@ -1,3 +1,7 @@
+---
+layout: post
+title: mix10-ndash-windows-7-series-phone-architecture
+---
 Rearchitected from the ground up
 
 Hardware Architecture

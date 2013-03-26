@@ -1,3 +1,7 @@
+---
+layout: post
+title: venture-into-viewstate
+---
 I was reading [Scott's little
 rant](http://www.hanselman.com/blog/PermaLink.aspx?guid=e73efd87-2cae-49af-9674-7076a054f2ca)
 about people that move ViewState to the Session object and I have to say

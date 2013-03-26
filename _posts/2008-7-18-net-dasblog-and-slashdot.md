@@ -1,3 +1,7 @@
+---
+layout: post
+title: net-dasblog-and-slashdot
+---
 [Scott Hanselman](http://www.hanselman.com/blog/) has a [good
 writeup](http://www.hanselman.com/blog/PermaLink.aspx?guid=f19a277c-8c9d-4af9-bf99-add650288055)
 covering the Slashdotting that he received.

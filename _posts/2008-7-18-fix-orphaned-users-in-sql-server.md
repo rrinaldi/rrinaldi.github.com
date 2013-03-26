@@ -1,3 +1,7 @@
+---
+layout: post
+title: fix-orphaned-users-in-sql-server
+---
 Every time I restore a database, I forget how to fix the orphaned
 users.  So I google, trying to find the magic words that will bring me
 to that stored procedure that I know exists, but I just can't remember

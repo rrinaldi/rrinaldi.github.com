@@ -1,3 +1,7 @@
+---
+layout: post
+title: crm-4-0-plug-ins-handling-entity-merges
+---
 In a recent post, [CRM 4.0
 Plugins](http://ryanrinaldi.com/blog/lisle-to-union/lisle-to-union-crm-4-0-plugins/),
 I said I would post an example of a plug-in that handles entity merges. 

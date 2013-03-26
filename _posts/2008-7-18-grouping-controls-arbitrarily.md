@@ -1,3 +1,7 @@
+---
+layout: post
+title: grouping-controls-arbitrarily
+---
 Sometimes when building a page, I find that I need to group controls
 together so I can show/hide them at the same time, or perform a similar
 action on all of them.  Most of the time I can put them in a panel and

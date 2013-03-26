@@ -1,3 +1,7 @@
+---
+layout: post
+title: new-happy-fun-list
+---
 The [2004 List of Banished
 Words](http://www.lssu.edu/banished/archive/2004.php) has just been
 published.

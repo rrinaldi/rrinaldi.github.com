@@ -1,3 +1,7 @@
+---
+layout: post
+title: lisle-to-union-messaging
+---
 Something that has running on a background thread for awhile is "How do
 we implement pub/sub messaging?".  One of the cons to having very
 silo-ed systems is how do you handle the cross-system reporting?  For

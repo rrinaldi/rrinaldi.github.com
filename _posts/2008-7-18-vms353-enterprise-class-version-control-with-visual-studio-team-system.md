@@ -1,3 +1,7 @@
+---
+layout: post
+title: vms353-enterprise-class-version-control-with-visual-studio-team-system
+---
 Just finished lunch.  I'm currently chilling in the session room waiting
 for the session to start up while watching my wireless connection go up
 and down.  At least they provided a connection for us at the convention

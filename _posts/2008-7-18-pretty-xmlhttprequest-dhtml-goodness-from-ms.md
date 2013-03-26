@@ -1,3 +1,7 @@
+---
+layout: post
+title: pretty-xmlhttprequest-dhtml-goodness-from-ms
+---
 [http://start.com/1/](http://start.com/1/ "http://start.com/1/")
 
 Don't know how public that link is supposed to be.  Let's pass it around

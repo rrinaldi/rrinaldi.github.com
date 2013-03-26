@@ -1,3 +1,7 @@
+---
+layout: post
+title: dell-laptops-are-for-sux0rs
+---
 My laptop is very upset with me.  It has decided that it doesn't want to
 be a laptop anymore, and that it is quite content with being a
 paperweight.  I don't know why it's content being a paperweight, SINCE

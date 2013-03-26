@@ -1,3 +1,7 @@
+---
+layout: post
+title: google-desktop
+---
 Sweet!
 
 > [*Google Desktop Search

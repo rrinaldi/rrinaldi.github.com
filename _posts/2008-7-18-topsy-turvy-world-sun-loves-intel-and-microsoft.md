@@ -1,3 +1,7 @@
+---
+layout: post
+title: topsy-turvy-world-sun-loves-intel-and-microsoft
+---
 So what is going on over at Sun?  My world is getting flipped on it's
 head.
 

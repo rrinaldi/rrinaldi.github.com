@@ -1,3 +1,7 @@
+---
+layout: post
+title: oysy-sushi
+---
 If you ever find yourself hankering for some sushi and you happen to be
 in Chicago's south loop, I would highly recommend [Oysy
 Sushi](http://www.oysysushi.com/) at Michigan and 9th. 

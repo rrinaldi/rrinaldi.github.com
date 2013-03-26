@@ -1,3 +1,7 @@
+---
+layout: post
+title: summer-ends
+---
 As the Chicago Cubs left the field yesterday, it marked the end of my
 summer. All in all it was quite a good summer.  Watched my boys in blue
 win some and lose some more, but still manage to have a better record

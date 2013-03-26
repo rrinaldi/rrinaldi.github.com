@@ -1,3 +1,7 @@
+---
+layout: post
+title: tell-the-assembly-loader-where-to
+---
 …shove find it.
 
 I’m working on a project right now that has me doing a lot of dynamic

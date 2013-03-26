@@ -1,3 +1,7 @@
+---
+layout: post
+title: net-campsight-pdc
+---
 Got a question to throw out there:
 
 If you could only go to one conference, and you could choose between the

@@ -1,3 +1,7 @@
+---
+layout: post
+title: using-web-application-projects-with-team-build
+---
 Are you using Web Application Projects with Team Build?
 
 Did you upgrade from WAP RC1 to 1.0?

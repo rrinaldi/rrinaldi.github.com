@@ -1,3 +1,7 @@
+---
+layout: post
+title: qumana-editor
+---
 By the way, this post and the last one are/were written using a new
 editor I found called [Qumana](http://www.qumana.com/).  It's free and
 pretty good.  It doesn't seem to support the community server

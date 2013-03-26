@@ -1,3 +1,7 @@
+---
+layout: post
+title: what-to-expect-at-nerd-dinners
+---
 After attending quite a few of these events (in Chicago at least), I’ve
 discovered that a lot of them break down into very similar conversations
 month after month:

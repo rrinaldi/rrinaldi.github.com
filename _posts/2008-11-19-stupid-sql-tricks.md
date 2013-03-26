@@ -1,3 +1,7 @@
+---
+layout: post
+title: stupid-sql-tricks
+---
 Don't ask why I needed this, but here is a SQL function that will
 abbreviate a string:
 

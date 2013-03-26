@@ -1,3 +1,7 @@
+---
+layout: post
+title: still-got-a-replaytv-use-media-center
+---
 If you still happen to have a ReplayTV and you now use Windows Media
 Center I suggest you take a look at [this blog
 post](http://ray.jez.net/?p=503) that my boss, [Ray

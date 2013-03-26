@@ -1,3 +1,7 @@
+---
+layout: post
+title: work-with-me
+---
 Well, not just me, but [Ray](/jez "My Boss"),
 [Richard](/richard "Crazy Canadian"), and a host of others.
 

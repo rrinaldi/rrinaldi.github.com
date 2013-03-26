@@ -1,3 +1,7 @@
+---
+layout: post
+title: creating-custom-cruisecontrol-net-blocks
+---
 CruiseControl.NET is my new shiny toy that I've been playing with, and
 I'm having a lot of fun.  I have a couple ideas for some different
 publisher blocks that I would like to create, but I'm not sure the best

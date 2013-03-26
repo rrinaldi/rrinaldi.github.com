@@ -1,3 +1,7 @@
+---
+layout: post
+title: tfs-postings-of-note
+---
 [Update on the TFS MSSCCI
 Provider](http://blogs.msdn.com/bharry/archive/2006/03/24/559876.aspx):
 One step closer to tossing VSS out the window.  \*BOOT!\*

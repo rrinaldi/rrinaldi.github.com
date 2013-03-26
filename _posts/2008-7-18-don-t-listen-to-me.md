@@ -1,3 +1,7 @@
+---
+layout: post
+title: don-t-listen-to-me
+---
 So the [post](http://blogs.geekdojo.net/ryan/posts/384.aspx) I made
 yesterday about impersonation doesn't work.  Well, let me clarify that. 
 It doesn't work for accessing network resources.  Impersonation only

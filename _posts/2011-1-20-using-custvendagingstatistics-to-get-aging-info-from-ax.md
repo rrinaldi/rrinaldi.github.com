@@ -1,3 +1,7 @@
+---
+layout: post
+title: using-custvendagingstatistics-to-get-aging-info-from-ax
+---
 Took me some time but I was able to track down how to get aging
 information out of AX through it’s Business Connector. I’m putting this
 here as a reminder of how to get it done.

@@ -1,3 +1,7 @@
+---
+layout: post
+title: a-little-blogmap
+---
 [Go get your own!](http://www.csthota.com/blogmap/)
 
 ![my

@@ -1,3 +1,7 @@
+---
+layout: post
+title: links-of-dubious-value
+---
 Random things I’ve found in the past weeks:
 
 RoboForm: [Freeware of the

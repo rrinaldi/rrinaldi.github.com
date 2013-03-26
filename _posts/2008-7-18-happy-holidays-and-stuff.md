@@ -1,3 +1,7 @@
+---
+layout: post
+title: happy-holidays-and-stuff
+---
 Just thought I would drop a little line wishing you and yours a very
 merry Christmas!
 

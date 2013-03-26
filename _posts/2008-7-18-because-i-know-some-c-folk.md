@@ -1,3 +1,7 @@
+---
+layout: post
+title: because-i-know-some-c-folk
+---
 The only reason I really post this is because I know some of the C++
 folks from my work read my blog when they are very, very bored.
 

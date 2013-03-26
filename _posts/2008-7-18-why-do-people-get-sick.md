@@ -1,3 +1,7 @@
+---
+layout: post
+title: why-do-people-get-sick
+---
 If you've read my blog before, [you would
 know](http://blogs.geekdojo.net/ryan/posts/175.aspx) that I spend a lot
 of my time volunteering with the [Special

@@ -1,3 +1,7 @@
+---
+layout: post
+title: want-to-rename-the-junk-e-mail-folder-in-outlook-2003
+---
 Well you can't.
 
 I just upgraded to Office 2003 today and so far I like it.  Outlook 2k3

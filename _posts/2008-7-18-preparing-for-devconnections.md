@@ -1,3 +1,7 @@
+---
+layout: post
+title: preparing-for-devconnections
+---
 I'm currently watching a little TV while I do a couple loads of laundry
 before I start my packing (it helps to have clothes to wear when going
 to a convention).  Hopefully I'll be able to get a little sleep tonight

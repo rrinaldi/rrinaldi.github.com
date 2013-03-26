@@ -1,3 +1,7 @@
+---
+layout: post
+title: another-post-about-vista-db
+---
 Heard about this via everybody on the freakin’ earth:
 
  

@@ -1,3 +1,7 @@
+---
+layout: post
+title: ick-bad-phtttpppt
+---
 After [Ray](http://blogs.geekdojo.net/jez) stole my thunder with his
 [Concatination with
 COALESCE](http://blogs.geekdojo.net/jez/posts/146.aspx), I guess I'll

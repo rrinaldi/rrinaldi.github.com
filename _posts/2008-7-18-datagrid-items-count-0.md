@@ -1,3 +1,7 @@
+---
+layout: post
+title: datagrid-items-count-0
+---
 Not if you bound it at least once.
 
 I found this little bug the other day.  I don't know if I'm the first,

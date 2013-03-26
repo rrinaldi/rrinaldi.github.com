@@ -1,3 +1,7 @@
+---
+layout: post
+title: successful-nerd-dinner
+---
 Last night the [Chicago Nerd Dinner - Downtown
 Edition](http://nerddinner.com/blogs/chicago/archive/2005/05/09/ChicagoNerdDinnerDowntownEditionMay23rd.aspx)
 was a success.  We had 9 people show up, including 3 that we thought had

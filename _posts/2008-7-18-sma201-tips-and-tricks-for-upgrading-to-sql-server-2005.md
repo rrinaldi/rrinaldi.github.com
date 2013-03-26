@@ -1,3 +1,7 @@
+---
+layout: post
+title: sma201-tips-and-tricks-for-upgrading-to-sql-server-2005
+---
 Two types of upgrades: Migration and in-place
 In-place upgrades an existing instance
 Migration creates a new instance

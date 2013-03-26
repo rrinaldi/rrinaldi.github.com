@@ -1,3 +1,7 @@
+---
+layout: post
+title: peanut-butter-jelly-time
+---
 A couple weeks ago, I was watching Family Guy and Brian jumped on the
 screen dressed as a Banana and sang a song about Peanut Butter and
 Jelly.  I had no clue what it was a reference to, so I had to google for

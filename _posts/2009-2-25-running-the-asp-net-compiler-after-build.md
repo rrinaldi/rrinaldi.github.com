@@ -1,3 +1,7 @@
+---
+layout: post
+title: running-the-asp-net-compiler-after-build
+---
 Found this trick today and it saved me a lot of pain. I was
 renaming/reorganizing a bunch of classes and almost every page I went to
 greeted me with this error:

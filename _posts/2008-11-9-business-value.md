@@ -1,3 +1,7 @@
+---
+layout: post
+title: business-value
+---
 (Side note: The Metra is all screwed up this morning.  I'm told trains
 are running 20 mins late then the 7:51 pulls up going from Chicago on
 the to Chicago tracks.  Sigh....)

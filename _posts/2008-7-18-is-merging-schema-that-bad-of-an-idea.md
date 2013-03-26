@@ -1,3 +1,7 @@
+---
+layout: post
+title: is-merging-schema-that-bad-of-an-idea
+---
 The other day, I posted about my ideal concept of [source control for
 database
 schema](http://blogs.geekdojo.net/ryan/archive/2005/05/17/8343.aspx) and

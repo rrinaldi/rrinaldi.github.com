@@ -1,3 +1,7 @@
+---
+layout: post
+title: blogs-that-are-good-and-good-for-you
+---
 My good friend Rob (who started his own company, [Ocular Data
 Solutions](http://oculardata.com/ "Complete tech solutions for ophthalmic practices"))
 asked me for some good blogs to read since he is relatively new to

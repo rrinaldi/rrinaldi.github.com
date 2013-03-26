@@ -1,3 +1,7 @@
+---
+layout: post
+title: who-needs-the-gac
+---
 I certainly don't.  Most of the time.
 
 Lately I've been [spending

@@ -1,3 +1,7 @@
+---
+layout: post
+title: ws-messagedelivery-version-1-0
+---
 At the office yesterday (at least I think it was yesterday?) we were
 conversing about client applications informing web services of their
 "preferred" response delivery.  I came away from the conversation a

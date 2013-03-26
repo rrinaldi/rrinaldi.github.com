@@ -1,3 +1,7 @@
+---
+layout: post
+title: chicago-nerd-dinner-downtown-edition-february-29th
+---
 **When:** Wednesday, February 29th, 2006\
 **Where:** Rock Bottom @ State & Grand\
 **Where:** 6PM

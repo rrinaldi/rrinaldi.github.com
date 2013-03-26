@@ -1,3 +1,7 @@
+---
+layout: post
+title: pagerank-numbers-drop-story-at-11
+---
 According to a very smart man ([Haacked](http://www.haacked.com/)), [his
 PageRank numbers seem to be
 dropping](http://haacked.com/archive/2005/08/24/9646.aspx) and he

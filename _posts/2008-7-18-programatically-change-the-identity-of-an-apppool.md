@@ -1,3 +1,7 @@
+---
+layout: post
+title: programatically-change-the-identity-of-an-apppool
+---
 A couple weeks ago we were making some changes to our web servers that
 required all the Application Pools to be running as a known domain
 user.  While it’s not hard to change it by hand, I figured it would be

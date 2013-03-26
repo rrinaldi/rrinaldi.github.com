@@ -1,3 +1,7 @@
+---
+layout: post
+title: staying-technically-relevant
+---
 In the comments to my post yesterday (comments meaning the only one I
 got), my friend and coworker [Richard
 Lowe](http://blogs.geekdojo.net/richard) pointed out that working with

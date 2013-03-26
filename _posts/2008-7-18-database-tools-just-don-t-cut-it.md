@@ -1,3 +1,7 @@
+---
+layout: post
+title: database-tools-just-don-t-cut-it
+---
 I don't like databases any more.  I'm tired of them.  They just don't do
 it for me any more.
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: woot-woot
+---
 Gotta check this out first thing tomorrow:
 [http://www.woot.com/](http://www.woot.com/).
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: day-of-net
+---
 The [Chicago .NET Users Group](http://www.cnug.org/Default.aspx) put
 together [A Day of .NET
 Conference](http://www.cnug.org/Default.aspx?tabid=33) that took place

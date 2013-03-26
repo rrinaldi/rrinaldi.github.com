@@ -1,3 +1,7 @@
+---
+layout: post
+title: must-gouge-out-eyes
+---
 Note to self: Never, ever, ever use the last pair of contacts without
 having a box of new contacts ready to go.  My old glasses are a couple
 prescriptions out of date and causing great aches of the head. :(

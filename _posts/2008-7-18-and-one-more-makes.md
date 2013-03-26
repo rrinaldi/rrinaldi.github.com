@@ -1,3 +1,7 @@
+---
+layout: post
+title: and-one-more-makes
+---
 Eight.  Wow.  Another one joins the Geekdojo.  (Actually he joined
 yesterday, but who's counting?)
 

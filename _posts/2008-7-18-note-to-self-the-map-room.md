@@ -1,3 +1,7 @@
+---
+layout: post
+title: note-to-self-the-map-room
+---
 [The Map Room](http://www.maproom.com/) –  200 types of beer with 26 on
 tap.  [Good article at the
 Chicagoist](http://feeds.feedburner.com/Chicagoist?m=743)

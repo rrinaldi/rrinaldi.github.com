@@ -1,3 +1,7 @@
+---
+layout: post
+title: hey-hey-holy-mackerel-no-doubt-about-it
+---
 The Cubs are on thier way!!!!
 
 Central Division Champs: Check

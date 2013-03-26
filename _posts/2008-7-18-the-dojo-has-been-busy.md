@@ -1,3 +1,7 @@
+---
+layout: post
+title: the-dojo-has-been-busy
+---
 Hey! I knew there was something that I was forgetting to do!  Write in
 the blog.
 

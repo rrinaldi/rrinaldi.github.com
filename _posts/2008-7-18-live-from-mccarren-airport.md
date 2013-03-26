@@ -1,3 +1,7 @@
+---
+layout: post
+title: live-from-mccarren-airport
+---
 Well, DevConnections is over.  Had a good time and met some good
 people.  Juval Lowy's session on VS 2005 and C\# 2.0 was excellent.  He
 reaffirmed a lot of my thoughts on C\# 2.0 and taught me quite a bit in

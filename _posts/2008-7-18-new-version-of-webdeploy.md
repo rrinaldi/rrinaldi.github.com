@@ -1,3 +1,7 @@
+---
+layout: post
+title: new-version-of-webdeploy
+---
 [Matt](http://weblogs.asp.net/mhawley) has released a [new
 version](http://weblogs.asp.net/mhawley/archive/2004/07/26/197599.aspx)
 of WebDeploy!  This one includes options for pre and post deploy command

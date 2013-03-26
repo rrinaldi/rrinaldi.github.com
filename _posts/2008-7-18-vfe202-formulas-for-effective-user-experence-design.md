@@ -1,3 +1,7 @@
+---
+layout: post
+title: vfe202-formulas-for-effective-user-experence-design
+---
 This sessions is being presented by Mark Miller from Developer Express,
 and as most of you know (all 5 or 6 of my readers) I'm a big fan of
 CodeRush which is a product from Developer Express.  This should be

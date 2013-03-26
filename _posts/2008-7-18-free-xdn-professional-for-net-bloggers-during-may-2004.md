@@ -1,3 +1,7 @@
+---
+layout: post
+title: free-xdn-professional-for-net-bloggers-during-may-2004
+---
 **FREE**
 [**XDN**](http://blogs.xtras.net/mikes/ct.ashx?id=2650d93d-0994-4f74-ae52-900173d03ebd&url=http%3a%2f%2fwww.xtras.net%2fxdn)
 **Professional for .NET Bloggers during May 2004\

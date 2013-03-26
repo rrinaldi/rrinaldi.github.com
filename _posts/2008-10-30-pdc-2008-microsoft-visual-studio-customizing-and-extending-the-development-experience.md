@@ -1,3 +1,7 @@
+---
+layout: post
+title: pdc-2008-microsoft-visual-studio-customizing-and-extending-the-development-experience
+---
 Agenda
 
 -   Extending Visual Studio

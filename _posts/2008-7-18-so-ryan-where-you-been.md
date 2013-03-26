@@ -1,3 +1,7 @@
+---
+layout: post
+title: so-ryan-where-you-been
+---
 Good question mister anonymous blog reader guy.
 
 On the work front I’ve been heads down cranking out the next generation

@@ -1,3 +1,7 @@
+---
+layout: post
+title: impersonation-redux
+---
 So, [I've been](http://http://blogs.geekdojo.net/ryan/posts/387.aspx)
 [trying](http://http://blogs.geekdojo.net/ryan/posts/384.aspx) to get my
 stupid ASP.NET app to create a couple folders out on the network.  That

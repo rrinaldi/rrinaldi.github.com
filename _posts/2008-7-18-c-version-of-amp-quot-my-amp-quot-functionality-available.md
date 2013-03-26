@@ -1,3 +1,7 @@
+---
+layout: post
+title: c-version-of-amp-quot-my-amp-quot-functionality-available
+---
 [What
 the?](http://blogs.msdn.com/danielfe/archive/2005/06/14/429092.aspx)
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: windows-xp-royale-theme
+---
 I just installed the Windows Media Center Edition windows theme. 
 Freaking hot!  Via Andy Smith:
 

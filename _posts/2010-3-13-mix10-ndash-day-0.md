@@ -1,3 +1,7 @@
+---
+layout: post
+title: mix10-ndash-day-0
+---
 Getting all set for a day of pre-con sessions.  Already caffeinated and
 just waiting for my lazy coworkers to get downstairs so we can get all
 registered!

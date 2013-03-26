@@ -1,3 +1,7 @@
+---
+layout: post
+title: scott-adams-survey-on-economists
+---
 Scott Adams (the creator of Dilbert) commissioned a survey of 500
 economists to find out which presidential hopeful would be better for
 the economy.  Some pretty interesting results.

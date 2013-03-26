@@ -1,3 +1,7 @@
+---
+layout: post
+title: vs-net-rant
+---
 Why does VS.NET allow me to start debugging something when none of my
 code is compiled in Debug mode? Huh?  I can't debug.  It knows I can't
 since it compiled the darn code for me.  It knows I have no debugging

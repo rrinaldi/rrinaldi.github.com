@@ -1,3 +1,7 @@
+---
+layout: post
+title: welcome-to-the-fold
+---
 I would like to extend a warm welcome to two more bloggers that have
 decided to join us over here at the Dojo.  [Paul
 Bartlett](http://blogs.geekdojo.net/pdbartlett) and [Matt

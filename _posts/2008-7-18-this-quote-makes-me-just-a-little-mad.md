@@ -1,3 +1,7 @@
+---
+layout: post
+title: this-quote-makes-me-just-a-little-mad
+---
 From a [CNN.com
 article](http://www.cnn.com/2004/TECH/biztech/10/05/software.disasters.ap/index.html) on
 software disasters:

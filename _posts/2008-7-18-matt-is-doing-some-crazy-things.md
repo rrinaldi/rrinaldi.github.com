@@ -1,3 +1,7 @@
+---
+layout: post
+title: matt-is-doing-some-crazy-things
+---
 [Matt Hawley](http://weblogs.asp.net/mhawley) has been doing some real
 crazy things with Web Deploy.  He is [putting in file
 masks](http://weblogs.asp.net/mhawley/archive/2004/07/15/184492.aspx),

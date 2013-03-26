@@ -1,3 +1,7 @@
+---
+layout: post
+title: ams352-best-practices-and-technques-for-migrating-asp-net-1-x-applications-to-asp-net-2-0
+---
 I was able to find a spot close to the wall for this session so I was
 able to find some quality electric to keep MojoDojo running for this
 session.

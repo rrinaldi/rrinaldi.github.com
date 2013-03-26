@@ -1,3 +1,7 @@
+---
+layout: post
+title: dikta-doin-some-mad-raps
+---
 For the Chicagoans that read my blog, I present to you, Mike Ditka
 displaying his l33t mic skills in an 80s video:
 

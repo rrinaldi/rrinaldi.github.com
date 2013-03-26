@@ -1,3 +1,7 @@
+---
+layout: post
+title: chicago-nerd-dinner-downtown-edition-june-21st
+---
 **When:** Tuesday, June 21, 2005\
 **Where:** Rock Bottom @ State & Grand\
 **Where:** 6PM - ?

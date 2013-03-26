@@ -1,3 +1,7 @@
+---
+layout: post
+title: dialogs-windows-events-oh-my
+---
 Anytime you give a user a list of items to choose from there is always
 going to be the problem of what to do when the item the user wants is
 not in that list (dropdown, select box, what-have-you).  You normally

@@ -1,3 +1,7 @@
+---
+layout: post
+title: geek-gathering-goodness
+---
 My oh my it's been awhile since I posted.  My apologies.  Work has been
 nutty and the old personal life was getting kinda crazy.
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: crm-4-0-plugins
+---
 (Lisle to Union is going to be a recurring series.  I'm going to
 **attempt**to write daily my thoughts on what I'm currently working on. 
 As to the name "Lisle to Union"?  That's the train I take to get into

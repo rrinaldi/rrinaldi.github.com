@@ -1,3 +1,7 @@
+---
+layout: post
+title: blogjet-1-6-released
+---
 [BlogJet](http://blogjet.com/) 1.6 has been released and this version
 adds some features that I’ve been waiting for:
 

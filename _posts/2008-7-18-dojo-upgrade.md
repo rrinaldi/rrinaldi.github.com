@@ -1,3 +1,7 @@
+---
+layout: post
+title: dojo-upgrade
+---
 As some people have probably already noticed, the dojo has been upgraded
 to Community Server 2.0.  I'm quite happy with the new version, as I'm
 sure a lot of people are.  If anything is broken, please let me know.

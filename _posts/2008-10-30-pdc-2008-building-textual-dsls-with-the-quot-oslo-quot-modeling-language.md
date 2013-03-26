@@ -1,3 +1,7 @@
+---
+layout: post
+title: pdc-2008-building-textual-dsls-with-the-quot-oslo-quot-modeling-language
+---
 (This is going to be cool. I'm totally geeked out about Oslo and I want
 me some Textual DSL goodness)
 

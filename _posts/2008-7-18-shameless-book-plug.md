@@ -1,3 +1,7 @@
+---
+layout: post
+title: shameless-book-plug
+---
 My brother (Robert Hendry) just had a new book published, and I figured
 I would use my space here to give him a little plug.
 

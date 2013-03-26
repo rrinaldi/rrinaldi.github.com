@@ -1,3 +1,7 @@
+---
+layout: post
+title: cruisecontrol-net-and-me
+---
 The last couple of days at work I've been setting up a continuous
 integration server using
 [CruiseControl.NET](http://confluence.public.thoughtworks.org/display/CCNET). 

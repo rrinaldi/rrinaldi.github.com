@@ -1,3 +1,7 @@
+---
+layout: post
+title: chicago-nerd-dinner
+---
 [Tuesday, September 27th at Rock Bottom Brewery at 6:00
 PM.](http://nerddinner.com/blogs/chicago/archive/2005/09/21/7689.aspx)
 

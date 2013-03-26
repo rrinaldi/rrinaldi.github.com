@@ -1,3 +1,7 @@
+---
+layout: post
+title: sometimes-i-can-be-little-anal
+---
 Since Windows 95 came out, I have wanted one thing.  Let me arrange the
 taskbar as I see fit.  I like having all the little programs down there
 in a certain order, and when something crashes (like, for instance,

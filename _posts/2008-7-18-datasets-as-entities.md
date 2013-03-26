@@ -1,3 +1,7 @@
+---
+layout: post
+title: datasets-as-entities
+---
 I know this battle has been fought many, many times over and over but I
 really feel that Datasets miss the mark when being used as entities. 
 Rather than rehash statements that have been made by others far better

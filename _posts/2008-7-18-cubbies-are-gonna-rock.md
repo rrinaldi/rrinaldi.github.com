@@ -1,3 +1,7 @@
+---
+layout: post
+title: cubbies-are-gonna-rock
+---
 Hmm, can this rotation get ANY better?
 
 Wood, Prior, Clement, Zambrano, and

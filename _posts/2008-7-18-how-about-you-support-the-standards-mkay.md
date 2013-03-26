@@ -1,3 +1,7 @@
+---
+layout: post
+title: how-about-you-support-the-standards-mkay
+---
 I've been working on some vCard/vCalendar export code at work for the
 past couple of days, the main purpose being to import the resulting
 vCard/vCalendar files into Outlook.  The problem being that Outlook

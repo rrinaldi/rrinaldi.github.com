@@ -1,3 +1,7 @@
+---
+layout: post
+title: moving-to-text
+---
 If you are moving from some other blog engine to
 [.Text](http://www.scottwater.com/dottext), you might be interested in a
 [utility](http://blogs.pingpoet.com/overflow/archive/2004/02/10/209.aspx)

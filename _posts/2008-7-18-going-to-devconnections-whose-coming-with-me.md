@@ -1,3 +1,7 @@
+---
+layout: post
+title: going-to-devconnections-whose-coming-with-me
+---
 I'm going out to DevConnections in Vegas next week (along with
 [Richard](/richard)and [Ray](/jez)).  Anybody want to get together some
 evening for a few drinks and some geeking out?  I'm sure there will be

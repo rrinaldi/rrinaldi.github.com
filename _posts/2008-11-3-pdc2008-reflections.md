@@ -1,3 +1,7 @@
+---
+layout: post
+title: pdc2008-reflections
+---
 When I left the LA Convention Center on Thursday I was saddened.  I had
 so much fun at PDC that I didn't want it to end.  I wanted to stay there
 forever and learn all about all the new and interesting things coming

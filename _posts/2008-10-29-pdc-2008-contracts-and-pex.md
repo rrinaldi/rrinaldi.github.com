@@ -1,3 +1,7 @@
+---
+layout: post
+title: pdc-2008-contracts-and-pex
+---
 Contract based development
 
 Add contracts to code that ensure adherence to spec and implementation

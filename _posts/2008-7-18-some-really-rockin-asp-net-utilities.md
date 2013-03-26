@@ -1,3 +1,7 @@
+---
+layout: post
+title: some-really-rockin-asp-net-utilities
+---
 Via [Darrel Norton](http://dotnetjunkies.com/WebLog/darrell.norton/):
 
 Some free [.NET libraries, components, and

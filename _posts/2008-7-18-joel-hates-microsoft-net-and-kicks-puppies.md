@@ -1,3 +1,7 @@
+---
+layout: post
+title: joel-hates-microsoft-net-and-kicks-puppies
+---
 Not really, but headlines are for attention grabbing. :)
 
 [Joel Spolsky](http://www.joelonsoftware.com/index.html) brings up a

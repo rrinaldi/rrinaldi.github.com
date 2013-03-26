@@ -1,3 +1,7 @@
+---
+layout: post
+title: system-net-mail-doc-error
+---
 **UPDATE:** So I'm slow.  There is a static method on AlternateView
 called CreateAltenateViewFromString() that will take a string and a
 ContentType and return an AlternateView instance for you.  Next time I

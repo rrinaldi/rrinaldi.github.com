@@ -1,3 +1,7 @@
+---
+layout: post
+title: scrum-one-team-multiple-projects
+---
 At work we are in the process of implementing Scrum (actually tomorrow
 is our first Sprint Planning meeting. Really looking forward to it.)
 

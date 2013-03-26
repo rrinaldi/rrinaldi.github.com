@@ -1,3 +1,7 @@
+---
+layout: post
+title: google-chrome-is-pimp
+---
 [Chrome](http://www.google.com/chrome) is the much awaited web browser
 from Google.  We have all heard the rumors for years, and if you are
 anything like me, you have completely ignored them.  Because, even if

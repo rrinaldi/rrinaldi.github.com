@@ -1,3 +1,7 @@
+---
+layout: post
+title: indigo-on-non-longhorn-machines
+---
 [Scott](http://scottwater.com/blog/posts/10422.aspx) mentions that
 [Don](http://www.gotdotnet.com/team/dbox/) told him that
 [Indigo](http://msdn.microsoft.com/Longhorn/understanding/pillars/Indigo/default.aspx)

@@ -1,3 +1,7 @@
+---
+layout: post
+title: here-s-the-way-we-block-the-spam
+---
 block the spam, block the spam early in the morning....
 
 So the past couple weeks I've been kinda busy with work, but I managed

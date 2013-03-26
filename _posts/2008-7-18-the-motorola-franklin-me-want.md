@@ -1,3 +1,7 @@
+---
+layout: post
+title: the-motorola-franklin-me-want
+---
 ![RAZRberry /
 Franklin](http://img.engadget.com/common/images/4508485415105716.JPG?0.9811430137765133)\
 

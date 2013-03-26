@@ -1,3 +1,7 @@
+---
+layout: post
+title: pdc-2008-advances-in-the-net-type-system
+---
 Advances in the .NET type system\
  (Code named: NPIA (No Primary Interop Assemblies))\
 Type embedding and Type equivalence\

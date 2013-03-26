@@ -1,3 +1,7 @@
+---
+layout: post
+title: ams255-developing-rich-web-applications-with-asp-net-quot-atlas-quot
+---
 Again, I'm late to a session.  They have got to move the break
 area/lunch area closer to the sessions!
  

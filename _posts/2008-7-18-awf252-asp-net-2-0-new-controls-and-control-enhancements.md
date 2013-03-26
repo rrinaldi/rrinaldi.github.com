@@ -1,3 +1,7 @@
+---
+layout: post
+title: awf252-asp-net-2-0-new-controls-and-control-enhancements
+---
 To be completely honest with you I have don't have very high hopes for
 this one. :(  My notes will only cover things that I haven't already
 heard about.

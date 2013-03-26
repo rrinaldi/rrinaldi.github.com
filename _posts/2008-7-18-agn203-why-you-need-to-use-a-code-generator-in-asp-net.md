@@ -1,3 +1,7 @@
+---
+layout: post
+title: agn203-why-you-need-to-use-a-code-generator-in-asp-net
+---
 So tired.  So very very tired.  Using your brain all day then going out
 at night really takes a toll on you.  And by the looks of most of the
 people here, I'm not the only one.  The line for coffee has been getting

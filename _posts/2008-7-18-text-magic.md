@@ -1,3 +1,7 @@
+---
+layout: post
+title: text-magic
+---
 Sorry that the site has been serving up an error page for the last 12
 hours or so when clicking on a post to view the comments.  I just got
 home and decided to investigate the error and after setting the custom

@@ -1,3 +1,7 @@
+---
+layout: post
+title: mvp-vb6-revolt
+---
 Okay so Scoble calls it a
 [revolt](http://radio.weblogs.com/0001011/2005/03/08.html#a9568), but I
 would consider it more of a disagreement.  So does [Dan

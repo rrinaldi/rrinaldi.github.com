@@ -1,3 +1,7 @@
+---
+layout: post
+title: channel-9-updates-microsoftgadgets-com
+---
 Noticed today that
 [Microsoftgadgets.com](http://microsoftgadgets.com/) was updated!  After
 taking a spin around the site I noticed a post from Jeff Sandquist

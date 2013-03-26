@@ -1,3 +1,7 @@
+---
+layout: post
+title: bad-bug-began-blackout
+---
 According to [this SercurityFocus
 article](http://www.securityfocus.com/news/8016) a wee-tiny little flaw
 in the energy management system (created my non-other than General

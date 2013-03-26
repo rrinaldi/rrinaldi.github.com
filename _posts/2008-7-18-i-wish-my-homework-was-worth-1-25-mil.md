@@ -1,3 +1,7 @@
+---
+layout: post
+title: i-wish-my-homework-was-worth-1-25-mil
+---
 Adil Lalani did his homework.
 
 That homework turned into a web app that he [sold for \$1.25

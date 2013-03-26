@@ -1,3 +1,7 @@
+---
+layout: post
+title: mix10-ndash-design-fundamentals-for-developers-ndash-part-2
+---
 Design is composition
 
 Everything needs to work together and support each other

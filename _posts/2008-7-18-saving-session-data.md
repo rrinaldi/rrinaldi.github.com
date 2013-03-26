@@ -1,3 +1,7 @@
+---
+layout: post
+title: saving-session-data
+---
 So, I'm cruising around the blogsphere today and I happen to come across
 this this [post](http://neopoleon.com/blog/posts/1608.aspx) by Rory.
 (Actually I didn't stumble across it, I subscribe to his RSS feed, but

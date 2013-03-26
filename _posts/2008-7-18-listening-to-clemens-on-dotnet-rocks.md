@@ -1,3 +1,7 @@
+---
+layout: post
+title: listening-to-clemens-on-dotnet-rocks
+---
 So I'm currently listening to [DotNet
 Rocks!](http://www.franklins.net/dotnetrocks/) on my new Nomad Zen Xtra
 Jukebox (more on my new toy later) and I have a couple things I need to

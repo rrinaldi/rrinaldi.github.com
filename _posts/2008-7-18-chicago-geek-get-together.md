@@ -1,3 +1,7 @@
+---
+layout: post
+title: chicago-geek-get-together
+---
 After DevDays (which I wasn't lucky enough to attend) a [gaggle of
 geeks](http://weblogs.asp.net/mhawley/archive/2004/03/11/87955.aspx) (which
 I was lucky enough to attend) got together for some talking, eating,

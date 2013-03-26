@@ -1,3 +1,7 @@
+---
+layout: post
+title: pdc-2008-the-future-of-c
+---
 (Battery dying, this might be incomplete)
 
 December is the 10th anniversary of the inception of C\#

@@ -1,3 +1,7 @@
+---
+layout: post
+title: interactive-zipcode-locator
+---
 From the "*fun ways to amuse yourself dept.*"
 
 Via [Pick A Bar](http://www.knitwitology.net/pickabar/):

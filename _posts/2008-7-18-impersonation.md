@@ -1,3 +1,7 @@
+---
+layout: post
+title: impersonation
+---
 In a ASP.NET application I'm working on, we use NT Authentication but we
 don't use full blown Impersonation.  This has been fine until I needed
 to write some files out to some directories on the network.  Not wanting

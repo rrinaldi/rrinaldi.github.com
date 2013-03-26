@@ -1,3 +1,7 @@
+---
+layout: post
+title: gotta-love-programming
+---
 I don't get it.  I've been developing with .NET now for a couple years
 and for some strange reason I still work in a couple of projects with
 ASP.  No, not the ASP.NET with all the object-oriented wonderness. 

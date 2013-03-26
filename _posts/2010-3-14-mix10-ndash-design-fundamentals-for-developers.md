@@ -1,3 +1,7 @@
+---
+layout: post
+title: mix10-ndash-design-fundamentals-for-developers
+---
 Just arrived in my first workshop. (And yes, I was able to knock the
 cobwebs loose and I remembered which workshops I signed up for!)
 

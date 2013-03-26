@@ -1,3 +1,7 @@
+---
+layout: post
+title: pervasive-sql-and-platinum
+---
 For the past couple days I’ve been working on an integration project
 with [Platinum for Windows](http://www.bestsoftware.com/pfw/).  Platinum
 uses a file based database engine called

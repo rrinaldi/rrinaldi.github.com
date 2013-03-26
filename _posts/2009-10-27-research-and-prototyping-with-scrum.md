@@ -1,3 +1,7 @@
+---
+layout: post
+title: research-and-prototyping-with-scrum
+---
 Today is day 3 of our first Sprint. Yesterday was our first Daily Scrum
 and so far I’m digging it but I don’t have enough experience to really
 know if Scrum “is working” yet.

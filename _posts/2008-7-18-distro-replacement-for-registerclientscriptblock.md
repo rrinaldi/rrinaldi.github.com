@@ -1,3 +1,7 @@
+---
+layout: post
+title: distro-replacement-for-registerclientscriptblock
+---
 [From Youngpup](http://www.youngpup.net/), the guru of all things DOM
 and JavaScript related, comes a [replacement server control/API
 library](http://www.youngpup.net/2004/distro) for

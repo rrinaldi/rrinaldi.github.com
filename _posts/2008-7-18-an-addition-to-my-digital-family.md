@@ -1,3 +1,7 @@
+---
+layout: post
+title: an-addition-to-my-digital-family
+---
 About a month ago I added a new laptop to my digital family.  My old
 Inspiron 8100 is quite close to dead and I've been looking at replacing
 it for awhile.  It's still limping and whimpering, but not good for

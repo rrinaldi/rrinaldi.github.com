@@ -1,3 +1,7 @@
+---
+layout: post
+title: streaming-dvds-with-windows-media-center-and-xbox-360
+---
 One of things I've been trying to put together in my spare time is a
 home media center.  I got an XBOX 360 and using that as my Media Center
 Extender my goal is to stream backups of my DVDs that I ripped to my PC

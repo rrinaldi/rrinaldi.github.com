@@ -1,3 +1,7 @@
+---
+layout: post
+title: and-the-dojo-is-back-up
+---
 After a scare, we are back up and running!  I really need to thank Brian
 for coming through with a server to host the dojo!\
 \

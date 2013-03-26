@@ -1,3 +1,7 @@
+---
+layout: post
+title: chicago-nerd-dinner-downtown-edition-january-24th
+---
 **When:** Tuesday, January 24, 2006\
 **Where:** Rock Bottom @ State & Grand\
 **Where:** 6PM

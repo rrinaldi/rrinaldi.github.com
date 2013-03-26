@@ -1,3 +1,7 @@
+---
+layout: post
+title: a-knocking-we-will-go
+---
 Port knocking that is.
 
 I'm not a network admin, but I found

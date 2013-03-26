@@ -1,3 +1,7 @@
+---
+layout: post
+title: how-to-get-the-last-successful-build-from-tfs
+---
 Normally when I’m on a project I write up a little deployment console
 app to make deploying builds a bit easier (and repeatable!).  The first
 step in any sort of deployment app is getting the last successful build

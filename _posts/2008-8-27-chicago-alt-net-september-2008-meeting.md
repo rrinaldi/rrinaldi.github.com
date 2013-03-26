@@ -1,3 +1,7 @@
+---
+layout: post
+title: chicago-alt-net-september-2008-meeting
+---
 **Register [here](http://altnetchicago.eventbrite.com/).**
 
 ****

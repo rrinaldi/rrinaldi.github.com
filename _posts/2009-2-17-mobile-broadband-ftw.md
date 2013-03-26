@@ -1,3 +1,7 @@
+---
+layout: post
+title: mobile-broadband-ftw
+---
 I was telling a coworker the other day how awesome it is to fire up the
 internet on my way into work on the train.  Since he also takes the
 train and has a longer commute then me I suggested he give it a try. 

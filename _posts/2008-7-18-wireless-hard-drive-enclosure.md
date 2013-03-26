@@ -1,3 +1,7 @@
+---
+layout: post
+title: wireless-hard-drive-enclosure
+---
 I’m a guy without a desktop.  At home I only use laptops, which is great
 and all but it comes with a couple downsides.  One of those downsides is
 that the collection of old hard drives that I have has been almost

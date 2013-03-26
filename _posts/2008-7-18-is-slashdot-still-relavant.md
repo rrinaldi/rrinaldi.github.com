@@ -1,3 +1,7 @@
+---
+layout: post
+title: is-slashdot-still-relavant
+---
 From JK from [jkontherun.com](http://jkontherun.blogs.com/): [Is
 Slashdot still
 relevant?](http://jkontherun.blogs.com/jkontherun/2005/11/is_slashdot_sti.html)

@@ -1,3 +1,7 @@
+---
+layout: post
+title: pdc-2008-day-2-lunch-break
+---
 Taking a quick break to install Vista SP1.  I'm prepping my machine to
 install Win7 and VS2010 because I'm apparently certifiably insane (so
 says Ray and Richard).

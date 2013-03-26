@@ -1,3 +1,7 @@
+---
+layout: post
+title: ultramon-rebranded
+---
 At the office I have multiple monitors and I downloaded the king of all
 multiple monitor utilities UltraMon.  Today while surfing I stumbled
 across [Digital Tigers](http://www.digitaltigers.com/index.shtml), a

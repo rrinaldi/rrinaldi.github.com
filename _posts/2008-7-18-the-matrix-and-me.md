@@ -1,3 +1,7 @@
+---
+layout: post
+title: the-matrix-and-me
+---
 Okay, I'll say it.
 
 I LOVE THE MATRIX!

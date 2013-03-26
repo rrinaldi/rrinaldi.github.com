@@ -1,3 +1,7 @@
+---
+layout: post
+title: sql-server-full-text-indexing-of-html-content
+---
 Sorry for the long and boring title, but I wanted to make it easy for
 Google to find this post.
 

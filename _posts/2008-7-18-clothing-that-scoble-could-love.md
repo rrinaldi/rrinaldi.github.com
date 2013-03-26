@@ -1,3 +1,7 @@
+---
+layout: post
+title: clothing-that-scoble-could-love
+---
 On a complete lark, [Richard](http://blogs.geekdojo.net/richard/),
 [Ray](http://blogs.geekdojo.net/jez/) and I decided that we should
 [create a line of clothing](http://www.cafeshops.com/blogfromit) that

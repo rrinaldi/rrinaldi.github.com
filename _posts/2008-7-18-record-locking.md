@@ -1,3 +1,7 @@
+---
+layout: post
+title: record-locking
+---
 On my most favoritest SQL Server mailing list, SSWUG, the question came
 up if it was possible for SQL Server to maintain a lock on an accessed
 record after a client disconnects from the server.  The question also

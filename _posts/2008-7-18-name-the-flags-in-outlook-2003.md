@@ -1,3 +1,7 @@
+---
+layout: post
+title: name-the-flags-in-outlook-2003
+---
 Via [Jim
 Blizzard](http://snowstormlife.com/blogs/bliz/PermaLink.aspx?guid=069b1781-3849-4ea1-9c2c-e453e91416da),
 via [Marc's office zealot

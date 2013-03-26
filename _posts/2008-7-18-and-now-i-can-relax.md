@@ -1,3 +1,7 @@
+---
+layout: post
+title: and-now-i-can-relax
+---
 Well, now that the I completely botched the .Text upgrade on the server
 and spent all of my free time for the last 2 days replacing content that
 should have been backed up, I can finally sit back with a glass of wine,

@@ -1,3 +1,7 @@
+---
+layout: post
+title: random-stuff
+---
 I haven't blogged for a bit and I'm sorry.  I hope that everyone can
 forgive me. ;)
 

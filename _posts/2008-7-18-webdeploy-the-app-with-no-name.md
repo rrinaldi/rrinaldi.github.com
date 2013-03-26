@@ -1,3 +1,7 @@
+---
+layout: post
+title: webdeploy-the-app-with-no-name
+---
 [Matt](http://weblogs.asp.net/mhawley) needs your help in [choosing a
 new name for
 WebDeploy](http://weblogs.asp.net/mhawley/archive/2004/08/05/209235.aspx)

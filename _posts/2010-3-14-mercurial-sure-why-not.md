@@ -1,3 +1,7 @@
+---
+layout: post
+title: mercurial-sure-why-not
+---
 Some of the new super cool things on the block are Distributed Version
 Control Systems and being somebody that is into super cool new things I
 figured I would spend some time and get to know them.

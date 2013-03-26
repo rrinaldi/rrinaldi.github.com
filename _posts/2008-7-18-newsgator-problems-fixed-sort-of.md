@@ -1,3 +1,7 @@
+---
+layout: post
+title: newsgator-problems-fixed-sort-of
+---
 After spending an inordinate amount of time with Ronnie from NewsGator I
 was able to find the cause of my NewsGator woes.  It seems that the
 Getting Things Done! add-in for Outlook and NewsGator were conflicting

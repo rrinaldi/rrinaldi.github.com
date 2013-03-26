@@ -1,3 +1,7 @@
+---
+layout: post
+title: great-moments
+---
 If you have some free time, I suggest you go and check out [Microsoft's
 new ad
 campaign](http://www.microsoft.com/office/greatmoments/ads_tv.asp).  How

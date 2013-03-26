@@ -1,3 +1,7 @@
+---
+layout: post
+title: definition-of-recursion
+---
  **recursion**
 
 ​n. See

@@ -1,3 +1,7 @@
+---
+layout: post
+title: backup-registered-sql-servers-from-em
+---
 Here's a little trick if you are building a new machine and you don't
 want to manually re-register all of the servers you currently have in
 Enterprise Manager on your new machine.  Backup the registry key

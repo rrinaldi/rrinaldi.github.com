@@ -1,3 +1,7 @@
+---
+layout: post
+title: google-suggest
+---
 And google does it again!
 
 [Google Suggest](http://www.google.com/webhp?complete=1&hl=en) -\> The

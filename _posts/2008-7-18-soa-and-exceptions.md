@@ -1,3 +1,7 @@
+---
+layout: post
+title: soa-and-exceptions
+---
 So [Ray](http://blogs.geekdojo.net/ray) and I were discussing SOA at the
 office today and trying to figure out how to handle exceptions
 gracefully.  When you get an exception from a webservice all you get is

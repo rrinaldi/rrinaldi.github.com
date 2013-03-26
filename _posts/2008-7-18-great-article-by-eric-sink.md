@@ -1,3 +1,7 @@
+---
+layout: post
+title: great-article-by-eric-sink
+---
 "Eric claims that if ISVs are unwilling to trust their customers, then
 they won't have any. "
 

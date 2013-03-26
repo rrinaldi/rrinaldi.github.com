@@ -1,3 +1,7 @@
+---
+layout: post
+title: keeping-in-touch-during-devconnections
+---
 During DevConnections my lifeline to the office was my BlackBerry.  It
 also was my lifeline to keep in touch with the guys from the office that
 came to Vegas with me.  Richard and I had [BlackBerry

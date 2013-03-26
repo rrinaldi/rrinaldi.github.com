@@ -1,3 +1,7 @@
+---
+layout: post
+title: number-200-and-galleries-are-working
+---
 It took a bit of time, but I finally hit 200 posts!
 
 It took me almost as long to get the galleries working as it did to hit

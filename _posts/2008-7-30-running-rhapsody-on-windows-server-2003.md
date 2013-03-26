@@ -1,3 +1,7 @@
+---
+layout: post
+title: running-rhapsody-on-windows-server-2003
+---
 The latest version of Rhapsody refuses to run Windows Server 2003.  I've
 gotten around it by running Rhapsody in Windows XP compatibility mode. 
 To enable XP compatibility mode right click on your Rhapsody shortcut

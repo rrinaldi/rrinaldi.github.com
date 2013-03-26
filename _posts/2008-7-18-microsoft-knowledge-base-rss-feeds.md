@@ -1,3 +1,7 @@
+---
+layout: post
+title: microsoft-knowledge-base-rss-feeds
+---
 [kbAlertz.com](http://www.kbalertz.com/) has created [RSS
 feeds](http://kbalertz.mykb.com/Article_834DA.aspx) of Microsoft's
 Knowledge Base on a per category basis.

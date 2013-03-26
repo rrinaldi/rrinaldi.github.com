@@ -1,3 +1,7 @@
+---
+layout: post
+title: ams254-creating-dynamic-web-sites-with-asp-net-2-0-web-parts
+---
 Last session ran long so I'm walking into this one about 5 minutes in. 
 No power can be found, but I do get a nice table to work on. :)
 

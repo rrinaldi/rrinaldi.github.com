@@ -1,3 +1,7 @@
+---
+layout: post
+title: the-aussie-s-invaded-chicago
+---
 Please indulge my voyage into music journalism. :)
 
 The Aussie Tour.  Don't know if that was the official name, but it's

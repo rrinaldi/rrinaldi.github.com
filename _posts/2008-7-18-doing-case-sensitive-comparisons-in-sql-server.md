@@ -1,3 +1,7 @@
+---
+layout: post
+title: doing-case-sensitive-comparisons-in-sql-server
+---
 A co-worker of mine asked me today if there was a way to compare 2
 strings for equality in SQL Server but make the comparison case
 sensitive.  Of course there is!  Some of you may know this little trick,

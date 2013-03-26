@@ -1,3 +1,7 @@
+---
+layout: post
+title: another-one-for-my-c-homies
+---
 More from Herb...
 
 > [Herb Sutter, the Future of Visual C++, Part

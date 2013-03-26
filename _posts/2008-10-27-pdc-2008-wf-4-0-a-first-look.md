@@ -1,3 +1,7 @@
+---
+layout: post
+title: pdc-2008-wf-4-0-a-first-look
+---
 (Ray and Richard are in the ultra-hip Ruby session. I'm taking this one
 for the team.  I am not a fan of the current version of WF but I'm
 hoping they made some changes that will make it more applicable to the

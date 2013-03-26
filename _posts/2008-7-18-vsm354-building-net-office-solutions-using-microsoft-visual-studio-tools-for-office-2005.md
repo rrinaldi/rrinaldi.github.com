@@ -1,3 +1,7 @@
+---
+layout: post
+title: vsm354-building-net-office-solutions-using-microsoft-visual-studio-tools-for-office-2005
+---
 Morning on the third and "final" day of the conference.  Final being in
 quotes because there are three post conference sessions on Friday. I'm
 going to a C\# 2.0 and Visual Studio 2005.

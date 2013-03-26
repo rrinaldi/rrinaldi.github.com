@@ -1,3 +1,7 @@
+---
+layout: post
+title: mix10-ndash-asp-net-mvc-bootcamp
+---
 Presented by Jon Galloway ([Twitter](http://twitter.com/jongalloway),
 [Blog](http://weblogs.asp.net/jgalloway/),
 [Podcast](http://herdingcode.com/))

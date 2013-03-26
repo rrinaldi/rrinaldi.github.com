@@ -1,3 +1,7 @@
+---
+layout: post
+title: dojo-representin-with-cs-1-1
+---
 Last night I updated the site to Community Server 1.1.  The upgrade went
 relatively smoothly.  If this post hits the site then all is well with
 the MetaBlogApi add-on. 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: updater-application-block-version-2-0
+---
 Just in time to piss off my co-worker Richard (he just wrote his own
 updater since UAB 1.0 didn't fit the bill), MS's PAG group just released
 [UAB

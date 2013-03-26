@@ -1,3 +1,7 @@
+---
+layout: post
+title: article-from-sf-gate
+---
 [Why Does Windows Still
 Suck](http://sfgate.com/cgi-bin/article.cgi?file=/gate/archive/2005/02/04/notes020405.DTL)?
 

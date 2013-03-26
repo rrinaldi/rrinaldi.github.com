@@ -1,3 +1,7 @@
+---
+layout: post
+title: hosted-exchange
+---
 [jkOnTheRun](http://jkontherun.blogs.com/jkontherun) posted about an
 article that he wrote over a year ago about his [experiences with a
 Hosted Exchange

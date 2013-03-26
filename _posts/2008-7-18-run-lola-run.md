@@ -1,3 +1,7 @@
+---
+layout: post
+title: run-lola-run
+---
 Friday I sat down and watched “[Run Lola
 Run](http://www.imdb.com/title/tt0130827/)”, a great flick if enjoy
 watching people play with time. :) The plot is outlined simply as “Lola

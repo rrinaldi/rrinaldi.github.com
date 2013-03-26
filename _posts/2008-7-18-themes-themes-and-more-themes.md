@@ -1,3 +1,7 @@
+---
+layout: post
+title: themes-themes-and-more-themes
+---
 So I've been using this [MCE
 theme](http://blogs.geekdojo.net/ryan/archive/2004/06/30/2356.aspx) for
 the past day, and I have to say I really love it.  My only problem is

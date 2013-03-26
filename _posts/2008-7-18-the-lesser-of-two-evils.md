@@ -1,3 +1,7 @@
+---
+layout: post
+title: the-lesser-of-two-evils
+---
 Lurking around Code Project today, I stumbled across this article: [.NET
 Chaines
 Utilitaires](http://www.codeproject.com/Purgatory/stringutils.asp). 

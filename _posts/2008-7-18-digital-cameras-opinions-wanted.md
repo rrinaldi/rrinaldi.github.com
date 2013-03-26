@@ -1,3 +1,7 @@
+---
+layout: post
+title: digital-cameras-opinions-wanted
+---
 Sunday I was doing some non-tech work at the [NBC5 Health and
 Fitness Expo](http://www.nbc5.com/health/2791599/detail.html?z=dp&dpswid=2283706&dppid=65194)
 at Navy Pier in Chicago for [Home Spa

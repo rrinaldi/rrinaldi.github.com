@@ -1,3 +1,7 @@
+---
+layout: post
+title: why-another-simple-syndication-is-wrong
+---
 [Rory](http://neopoleon.com/blog/) put some fine thought into his [ASS
 protocol](http://neopoleon.com/blog/posts/1624.aspx).  But he forgot one
 thing.  His protocol displays “Y” in the body of the ASS feed.  I, for

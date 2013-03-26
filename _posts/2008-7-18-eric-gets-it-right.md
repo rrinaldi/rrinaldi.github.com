@@ -1,3 +1,7 @@
+---
+layout: post
+title: eric-gets-it-right
+---
 [Eric Sink is one smart
 mother](http://software.ericsink.com/entries/vsts_pricing.html).  With
 all of the

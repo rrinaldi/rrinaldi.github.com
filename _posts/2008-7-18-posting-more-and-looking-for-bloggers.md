@@ -1,3 +1,7 @@
+---
+layout: post
+title: posting-more-and-looking-for-bloggers
+---
 Up until this point the [Geekdojo](http://blogs.geekdojo.net/ryan) has
 been primarily focused on .NET and other Microsoft technologies.  From
 now on though, the aggregated blog and it's feed will still remain

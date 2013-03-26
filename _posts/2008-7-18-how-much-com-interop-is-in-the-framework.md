@@ -1,3 +1,7 @@
+---
+layout: post
+title: how-much-com-interop-is-in-the-framework
+---
 [Scoble](http://radio.weblogs.com/0001011/) always says that if you have
 a question, you should post it on your blog.  So I'm here with a
 question and I happen to be posting it on my blog.  I expect Scoble to

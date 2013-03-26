@@ -1,3 +1,7 @@
+---
+layout: post
+title: newsgator-upgrade-aggrevations
+---
 NewsGator sent me an email today explaining how I should upgrade to the
 latest and greatest version of their software.  I've been putting off
 the upgrade for awhile now since I've heard tons of complaints about the

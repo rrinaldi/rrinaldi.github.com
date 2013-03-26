@@ -1,3 +1,7 @@
+---
+layout: post
+title: thank-you-for-the-precomputer-1000
+---
 [**UPDATE**: Apparently my memory was not as good as I first thought.
 :)  It wasn't a Tandy machine at all.  It was manufactured by VTech. ]
 

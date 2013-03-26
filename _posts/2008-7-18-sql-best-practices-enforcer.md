@@ -1,3 +1,7 @@
+---
+layout: post
+title: sql-best-practices-enforcer
+---
 I got this link from [Jeff
 Key](http://weblogs.asp.net/jkey/posts/39304.aspx) (*I'm placing it here
 so I might be able to find it again*):  Microsoft's [SQL Server Best

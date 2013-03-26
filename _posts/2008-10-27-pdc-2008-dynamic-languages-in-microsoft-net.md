@@ -1,3 +1,7 @@
+---
+layout: post
+title: pdc-2008-dynamic-languages-in-microsoft-net
+---
 (Battery died during Anders' talk.  Now I'm sitting all alone in the
 back of the Dynamic Lanaguages talk by the water cooler stealing some
 electricity. :))

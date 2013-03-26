@@ -1,3 +1,7 @@
+---
+layout: post
+title: chicago-area-job-opening-trading-technologies-application-administrator
+---
 **Application Administrator (Enterprise Applications)**
 
 Trading Technologies international inc. (TT) is a cutting edge,

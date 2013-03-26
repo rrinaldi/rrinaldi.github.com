@@ -1,3 +1,7 @@
+---
+layout: post
+title: silly-bug-of-the-day
+---
 Go into SQL Query Analyzer, open a new window, drill down to a table in
 the object browser, expand a table, drag the Columns folder into the new
 window.  A message box will popup that says “No Script Generated”.  Now
