@@ -1,0 +1,14 @@
+<p>Normally when I&rsquo;m on a project I write up a little deployment console app to make deploying builds a bit easier (and repeatable!).&nbsp; The first step in any sort of deployment app is getting the last successful build from your build server.&nbsp; Here is some code that gets the build information from TFS:</p>
+<p><font color="#000080" size="3">
+<p><font size="2">var</font></p>
+</font></p>
+<p><font color="#800000">server</font> = <font color="#a65300">TeamFoundationServerFactory</font>.<font color="#800000">GetServer</font>(&quot;TFS SERVER NAME&quot;);</p>
+<p><font color="#000080">var</font> <font color="#800000">buildServer</font> = (<font color="#2b91af">IBuildServer</font>)<font color="#800000">server</font>.<font color="#800000">GetService</font>(<font color="#000080">typeof</font>(<font color="#2b91af">IBuildServer</font>));</p>
+<p><font color="#000080">var</font> <font color="#800000">buildDef</font> = <font color="#800000">buildServer</font>.<font color="#800000">GetBuildDefinition</font>(&quot;TFS PROJECT NAME&quot;, &quot;BUILD NAME&quot;);</p>
+<p><font color="#2b91af">IBuildDetail</font> <font color="#800000">buildDetail</font> = <font color="#800000">buildServer</font>.<font color="#800000">GetBuild</font>(<font color="#800000">buildDef</font>.<font color="#800000">LastGoodBuildUri</font>);</p>
+<p><font color="#000080">
+<p><font size="2">string</font></p>
+</font></p>
+<p><font size="2"> <font color="#800000">dropLocation</font> = <font color="#800000">buildDetail</font>.<font color="#800000">DropLocation</font>;</font></p>
+<p>Now you can copy the build straight from the path in dropLocation. <img alt="" src="http://ryanrinaldi.com/files/media/image/smile1.gif" /></p>
+<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:bcf38b41-5593-4836-af9f-38af42b43184" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: <a rel="tag" href="http://technorati.com/tags/tfs">tfs</a></div>
