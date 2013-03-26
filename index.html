@@ -1,6 +1,6 @@
 ---
 layout: nil
-title: Home
+title: Home - ryanrinaldi.com
 ---
 
 <!doctype html>
@@ -8,7 +8,7 @@ title: Home
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Ryan Rinaldi by rrinaldi</title>
+    <title>{{ page.title }}</title>
 
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
@@ -30,36 +30,14 @@ title: Home
       <section class="posts">
         <h3>Posts</h3>
         <ul class="block-list">
-            {% for post in paginator.posts %}
+            {% for post in site.posts %}
             <li>
                 <span class="post__time">{{ post.date | date: "%d %B, %Y" }}</span>
                 <h2 class="post__title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
             </li>
             {% endfor %}
         </ul>
-      </section>
-      <ol class="nav  pagination">
-        <li class="pagination__prev">
-            {% if paginator.previous_page %}
-            {% if paginator.previous_page == 1 %}
-                <a href="/">Previous</a>
-            {% else %}
-                <a href="/page{{paginator.previous_page}}">Previous</a>
-            {% endif %}
-            {% else %}
-                Previous
-            {% endif %}
-        </li><!--
-        
-     --><li class="pagination__next">
-            {% if paginator.next_page %}
-                <a href="/page{{paginator.next_page}}">Next</a>
-            {% else %}
-                Next
-            {% endif %}
-          </li>
-        </ol>
-      
+      </section>      
       <footer>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
