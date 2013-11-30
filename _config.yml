@@ -1,2 +1,41 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 markdown: rdiscount
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
 pygments: true
+
+title: ryanrinaldi.com
+description: Stylish Jekyll Theme
+author:
+  name: Ryan Rinaldi
+  email: ryan@ryanrinaldi.com
+  github: rrinaldi
+  twitter: rrinaldi
+  pinterest: 
+  linkedin: ryanrinaldi
+  resume: 
+  bio: .NET development served with a slice of sarcasm
+  email_md5: e757908d0e9859d2cf71fbdbe0c5fff8
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH:
+
+# All links will be namespaced by BASE_PATH if defined.
+# Links in your website should always be prefixed with {{ site.BASE_PATH }}
+# Do not put a "/" at the end of the url.
+#
+# CNAME (http://yourcustomdomain.com)
+#   DO NOT SET BASE_PATH JUST LEAVE IT BLANK 
+#   (urls will be prefixed with "/" and work relatively)
+#
+# GitHub Pages (http://username.github.io)
+#   DO NOT SET BASE_PATH JUST LEAVE IT BLANK 
+#   (urls will be prefixed with "/" and work relatively)
+#
+# GitHub Project Pages (http://username.github.io/project-name)
+  #  A GitHub Project site exists in the `gh-pages` branch of one of your repositories.
+  #  REQUIRED! Set BASE_PATH to "http://username.github.io/project-name"
