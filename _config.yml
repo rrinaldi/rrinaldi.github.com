@@ -18,7 +18,7 @@ author:
   bio: Software developer, .net geek, developer tool nerd, cubs fan, azure instance wrangler, husband and father.
   email_md5: e757908d0e9859d2cf71fbdbe0c5fff8
 
-rss_path: feed.xml
+rss_path: http://feeds.feedburner.com/ryanrinaldi
 categories_path: categories.html
 tags_path: tags.html
 
