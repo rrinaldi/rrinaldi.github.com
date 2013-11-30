@@ -6,7 +6,7 @@ exclude: ["README.md"] # files to exclude
 pygments: true
 
 title: ryanrinaldi.com
-description: Stylish Jekyll Theme
+description: .NET development served with a slice of sarcasm
 author:
   name: Ryan Rinaldi
   email: ryan@ryanrinaldi.com
@@ -15,7 +15,7 @@ author:
   pinterest: 
   linkedin: ryanrinaldi
   resume: 
-  bio: .NET development served with a slice of sarcasm
+  bio: Software developer, .net geek, developer tool nerd, cubs fan, azure instance wrangler, husband and father.
   email_md5: e757908d0e9859d2cf71fbdbe0c5fff8
 
 rss_path: feed.xml
